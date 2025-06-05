@@ -1,0 +1,20 @@
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+Pillow
+tqdm
+xgboost
+streamlit
+
+# Choose one depending on your deep learning framework
+torch 
+torchvision 
+torchaudio      # For PyTorch
+# OR
+tensorflow                       # For TensorFlow
+
+# Optional (for data augmentation, image visualization, etc.)
+albumentations
+seaborn
